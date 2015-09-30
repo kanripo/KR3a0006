@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 鹽鐵論
-#+DATE: 2015-09-23 10:09:34
-#+PROPERTY: JUAN 9
-
-<md:KR3a0006_WYG_009-1a>¶
-對
